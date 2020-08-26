@@ -18,7 +18,7 @@ height = "620px"
 [[item]]
   #title = "<br/><br/><br/>Welcome to Chen Lab"
   #title = "2019"
-  content = "<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>2019"
+  content = "<br/><br/><br/><br/><br/><br/><br/><br/><br/>2019"
   align = "right"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -36,7 +36,7 @@ height = "620px"
   #cta_icon = "graduation-cap"
 
 [[item]]
-  content = "<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>2018"
+  content = "<br/><br/><br/><br/><br/><br/><br/><br/><br/>2018"
   align = "right"
 
   overlay_color = "#555"  # An HTML color value.
@@ -44,7 +44,7 @@ height = "620px"
   overlay_filter = 0  # Darken the image. Value in range 0-1.
   
  [[item]]
-  content = "<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>2017"
+  content = "<br/><br/><br/><br/><br/><br/><br/><br/><br/>2017"
   align = "right"
 
   overlay_color = "#555"  # An HTML color value.
@@ -52,19 +52,19 @@ height = "620px"
   overlay_filter = 0  # Darken the image. Value in range 0-1.
   
  [[item]]
-  content = "<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>2016"
+  content = "<br/><br/><br/><br/><br/><br/><br/><br/><br/>2016"
   align = "right"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "GrpPic2016.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "GrpPic2016.png"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
   
  [[item]]
-  content = "<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>2015"
+  content = "<br/><br/><br/><br/><br/><br/><br/><br/><br/>2015"
   align = "right"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "GrpPic2015.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "GrpPic2015.png"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 
