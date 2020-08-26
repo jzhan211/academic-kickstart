@@ -11,12 +11,12 @@ interval = false
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "580px"
+height = "220px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "<br/><br/><br/>Welcome to Chen Lab"
+  title = "Welcome to Chen Lab"
   #content = "Welcome to Chen Lab"
   align = "center"  # Choose `center`, `left`, or `right`.
 
@@ -34,21 +34,14 @@ height = "580px"
   #cta_icon_pack = "fas"
   #cta_icon = "graduation-cap"
 
-[[item]]
+#[[item]]
  # title = "Left"
  # content = "I am left aligned :smile:"
-  align = "center"
+ # align = "center"
 
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "upmc_chp.jpg"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+ #overlay_color = "#555"  # An HTML color value.
+ #overlay_img = "upmc_chp.jpg"  # Image path relative to your `static/media/` folder.
+ #overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
-[[item]]
-#  title = "Right"
-#  content = "I am right aligned :smile:"
-  align = "center"
 
-  overlay_color = "#333"  # An HTML color value.
-  overlay_img = "family_photo.jpg"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0  # Darken the image. Value in range 0-1.
 +++

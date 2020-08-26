@@ -5,6 +5,7 @@ date: 2020-08-18
 #tags: ["scene"]
 title: "DIMM-SC"
 summary: "A novel method for clustering droplet-based single cell RNA-seq data."
+weight: 20 
 ---
 
 DIMMSC is an R package for clustering droplet-based single cell transcriptomic data. It uses Dirichlet mixture prior to characterize variations across different clusters. An expectation-maximization algorithm is used for parameter inference. This package can provide clustering uncertainty.

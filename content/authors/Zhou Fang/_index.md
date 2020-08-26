@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Data Scientist at Google
+role: Data Scientist, Google
 
 # Organizations/Affiliations
 organizations:

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Professor in Department of Obstetrics & Gynecology at Columbia University
+role: Assistant Professor in Department of Obstetrics & Gynecology, Columbia University
 
 # Organizations/Affiliations
 organizations:
