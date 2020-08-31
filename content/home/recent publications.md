@@ -77,3 +77,4 @@ subtitle = ""
 
 - Wang X, Sun Z, Zhang Y, Xu Z, Xin H, Huang H, Duerr RH, Chen K, Ding Y, Chen W. BREM-SC: a bayesian random effects mixture model for joint clustering single cell multi-omics data. Nucleic Acids Res. 2020 Jun 19;48(11):5814-5824. doi: 10.1093/nar/gkaa314. PubMed PMID: 32379315; PubMed Central PMCID: PMC7293045.
 
+[more publications](https://www.ncbi.nlm.nih.gov/myncbi/1BiLmrlnjqUQE/bibliography/public/?sortby=pubDate&sdirection=descending)

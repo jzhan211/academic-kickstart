@@ -12,16 +12,22 @@ view: 2
 #  caption: ""
 #  image: "research.jpg"
 ---
-
-+ 4/2019 Tao Sun Awarded American Statistical Association (ASA) Pittsburgh Chapter Student of the Year 2019
-+ 4/2019 Tao Sun Awarded International Chinese Statistical Association (ICSA) Student Paper Award 2019
-+ 4/2019 Rong Zhang awarded American Statistical Association (ASA) Pittsburgh Chapter Poster Award
-+ 4/2019 Yue Wei awarded American Statistical Association (ASA) Pittsburgh Chapter Poster Award
-+ 4/2019 Yue Wei awarded Lifetime Data Science Conference (LiDS) Student Paper Award
-+ 3/2019 Rong Zhang is one of five poster winners at ENAR conference.
-+ 3/2019 Zhe Sun's single cell clustering paper was accepted in Nature Communications.
-+ 3/2019 Yale Jiang's TWAS paper was accepted by European Respiratory Journal.
-+ 1/2019 Our collaborative work (Zhe Sun and Tao Sun) with Dr. Vignali was accepted in Nature Immunology.
-+ 1/2019 Ge Yang's abstract was accepted as an oral presentation and Yale Jiang's abstract was accepted as RaPID discussion.
-+ 12/2018 Our work on EWAS of atopic asthma was published in Lancet Respiratory Medicine.
-+ Chen lab members Tao Sun and Zhe Sun both receive ENAR distinguish student paper award. Congratulations!
+-	4/2020 Tao Sun defended his dissertation on NEW STATISTICAL METHODS FOR COMPLEX SURVIVAL DATA WITH HIGH-DIMENSIONAL COVARIATES
+-	4/2020 Tao Sun was inducted to the Delta Omega Honor Society, which is a renewed national honorary society (founded in 1924) in the field of public health
+-	3/2020 Zhe Sun was nominated Outstanding Student Award from Graduate School of Public Health (GSPH)
+-	3/2020 Yue Wei won the Honorable Mentions for the oral presentation in the Annual Biostatistics Research Day
+-	3/2020 Tao Sun won the Best Presentation Award in the Annual Biostatistics Research Day
+-	11/2019 Tao Sun received a Travel Award at the MD Anderson Cancer Center to attend the Integrative Biostatistics Research for Imaging, Genomics and High-throughput Technologies in Precision Medicine (iBRIGHT) conference
+-	7/2019 Xinjun Wang, with Dr. Wei Chen, awarded CTSI QuMP Pilots Funding, an NIH grant, from University of Pittsburgh
+-	6/2019 Tao Sun received a Travel Award for the Deep Learning Workshop hosted by the Statistical and Applied Mathematical Sciences Institute (SAMSI)
+-	5/2019 Tao Sun received the Lifetime Data Science Conference (LiDS) 2019 Best Poster Award
+-	4/2019 Tao Sun received the Outstanding Teaching Assistant Award for being a primary instructor in the Department of Biostatistics during both 2017 and 2018 academic years
+-	4/2019 Tao Sun awarded International Chinese Statistical Association (ICSA) Student Paper Award
+-	4/2019 Tao Sun was honored with the Student of the Year Award by the American Statistical Association (ASA) Pittsburgh Chapter 
+-	4/2019 Yue Wei awarded American Statistical Association (ASA) Pittsburgh Chapter Poster Award
+-	4/2019 Rong Zhang awarded American Statistical Association (ASA) Pittsburgh Chapter Student of the Year
+-	4/2019 Yue Wei awarded Lifetime Data Science Conference (LiDS) Student Paper Award
+-	3/2019 Rong Zhang is one of the five poster winners at ENAR conference
+-	1/2019 Ge Yang's abstract was accepted as an oral presentation and Yale Jiang's abstract was accepted as RaPID discussion
+-	12/2018 Tao Sun and Zhe Sun both received ENAR Distinguish Student Paper Award, which is one of the most prestigious student awards in the field of Biostatistics
+-	11/2018 Tao Sun received CTSI Young Investigator Award for developing novel deep learning methodologies and applications from the University of Pittsburgh
