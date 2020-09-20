@@ -10,6 +10,8 @@ title = "Chen Lab"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+relativeURLs = true
+uglyURLs = true
 baseurl = "https://jzhan211.github.io/"
 
 # Enter a copyright notice to display in the site footer.
