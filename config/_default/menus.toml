@@ -40,7 +40,7 @@
 
 [[main]]
   name = "News"
-  url = "/news/_index.md"
+  url = "/news.html"
   #url = {{< ref "/news/_index.md" >}}
   weight = 60
 
