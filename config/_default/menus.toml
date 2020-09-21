@@ -16,7 +16,7 @@
 
 [[main]]
   name = "Research"
-  url = "research"
+  url = "research.html"
   weight = 16
 
 [[main]]
@@ -26,12 +26,12 @@
 
 [[main]]
   name = "Software"
-  url = "software"
+  url = "software.html"
   weight = 30
 
 [[main]]
   name = "Positions"
-  url = "positions"
+  url = "positions.html"
   weight = 40
 
 [[main]]
