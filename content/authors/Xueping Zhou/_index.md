@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Jipeng Zhang
+title: Xueping Zhou
 
 # Username (this should match the folder name)
 authors:
-- Jipeng Zhang
+- Xueping Zhou
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D. Student in Biostatistics
+role: Ph.D. student in Biostatistics
 
 # Organizations/Affiliations
 organizations:
@@ -25,17 +25,17 @@ organizations:
 #- Computational Linguistics
 #- Information Retrieval
 
-education:
-  courses:
- # - course: PhD in Artificial Intelligence
- #   institution: Stanford University
- #   year: 2012
-  - course: MSE in Applied Mathematics and Statistics
-    institution: Johns Hopkins University
-    year: 2019
-  - course: BS in Applied Mathematics
-    institution: Syracuse University
-    year: 2018
+#education:
+#  courses:
+#  - course: PhD in Artificial Intelligence
+#    institution: Stanford University
+#    year: 2012
+#  - course: MEng in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2009
+#  - course: BSc in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:jiz214@pitt.edu" # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:jiz214@pitt.edu'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/jzhan211
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,9 +65,8 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-weight: 100
+weight: 30
 user_groups:
 - Lab Members
 ---
-
 
