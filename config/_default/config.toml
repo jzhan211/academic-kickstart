@@ -10,7 +10,7 @@ title = "Chen Lab"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-#baseurl = "https://jzhan211.github.io/"
+baseurl = "https://jzhan211.github.io/"
 relativeURLs = true
 uglyURLs = true
 
