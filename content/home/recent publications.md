@@ -67,14 +67,14 @@ subtitle = ""
  css_class = ""
 +++
 
-- Jiang Y, Rosborough BR, Chen J, Das S, Kitsios GD, McVerry BJ, Mallampalli RK, Lee JS, Ray A, Chen W, Ray P. Single cell RNA sequencing identifies an early monocyte gene signature in acute respiratory distress syndrome. JCI Insight. 2020 Jul 9;5(13). doi: 10.1172/jci.insight.135678. PubMed PMID: 32554932; PubMed Central PMCID: PMC7406263.
+- Kim S, Forno E, Zhang R, Park HJ, Xu Z, Yan Q, Boutaoui N, Acosta-Pérez E, Canino G, **Chen W**, Celedón JC. Expression Quantitative Trait Methylation Analysis Reveals Methylomic Associations With Gene Expression in Childhood Asthma. Chest. 2020 Nov;158(5):1841-1856. doi: 10.1016/j.chest.2020.05.601. Epub 2020 Jun 20. PubMed PMID: 32569636; NIHMSID:NIHMS1636691.
 
-- Lian Q, Xin H, Ma J, Konnikova L, Chen W, Gu J, Chen K. Artificial-cell-type aware cell-type classification in CITE-seq. Bioinformatics. 2020 Jul 1;36(Supplement_1):i542-i550. doi: 10.1093/bioinformatics/btaa467. PubMed PMID: 32657383; PubMed Central PMCID: PMC7355304.
+- Wang X, Sun Z, Zhang Y, Xu Z, Xin H, Huang H, Duerr RH, Chen K, Ding Y, **Chen W**. BREM-SC: a bayesian random effects mixture model for joint clustering single cell multi-omics data. Nucleic Acids Res. 2020 Jun 19;48(11):5814-5824. doi: 10.1093/nar/gkaa314. PubMed PMID: 32379315; PubMed Central PMCID: PMC7293045.
 
-- Yang G, Han YY, Forno E, Yan Q, Rosser F, Chen W, Celedón JC. Glycated Hemoglobin A1c, Lung Function, and Hospitalizations Among Adults with Asthma. J Allergy Clin Immunol Pract. 2020 Jun 20;. doi: 10.1016/j.jaip.2020.06.017. [Epub ahead of print] PubMed PMID: 32569755.
+- Kim S, Forno E, Yan Q, Jiang Y, Zhang R, Boutaoui N, Acosta-Pérez E, Canino G, **Chen W**, Celedón JC. SNPs identified by GWAS affect asthma risk through DNA methylation and expression of cis-genes in airway epithelium. Eur Respir J. 2020 Apr;55(4). doi: 10.1183/13993003.02079-2019. Print 2020 Apr. PubMed PMID: 31831581.
 
-- Kim S, Forno E, Zhang R, Park HJ, Xu Z, Yan Q, Boutaoui N, Acosta-Pérez E, Canino G, Chen W, Celedón JC. Expression Quantitative Trait Methylation Analysis Reveals Methylomic Associations With Gene Expression in Childhood Asthma. Chest. 2020 Jun 20;. doi: 10.1016/j.chest.2020.05.601. [Epub ahead of print] PubMed PMID: 32569636.
+- Yan Q, Weeks DE, Xin H, Swaroop A, Chew EY, Huang H, Ding Y, **Chen W**. Deep-learning-based Prediction of Late Age-Related Macular Degeneration Progression. Nat Mach Intell. 2020 Feb;2(2):141-150. doi: 10.1038/s42256-020-0154-9. Epub 2020 Feb 14. PubMed PMID: 32285025; PubMed Central PMCID: PMC7153739.
 
-- Wang X, Sun Z, Zhang Y, Xu Z, Xin H, Huang H, Duerr RH, Chen K, Ding Y, Chen W. BREM-SC: a bayesian random effects mixture model for joint clustering single cell multi-omics data. Nucleic Acids Res. 2020 Jun 19;48(11):5814-5824. doi: 10.1093/nar/gkaa314. PubMed PMID: 32379315; PubMed Central PMCID: PMC7293045.
+- Sun T, Sun Z, Jiang Y, Ferguson AA, Pilewski JM, Kolls JK, **Chen W**, Chen K. Transcriptomic Responses to Ivacaftor and Prediction of Ivacaftor Clinical Responsiveness. Am J Respir Cell Mol Biol. 2019 Nov;61(5):643-652. doi: 10.1165/rcmb.2019-0032OC. PubMed PMID: 30995102; PubMed Central PMCID: PMC6827069.
 
 [more publications](https://www.ncbi.nlm.nih.gov/myncbi/1BiLmrlnjqUQE/bibliography/public/?sortby=pubDate&sdirection=descending)

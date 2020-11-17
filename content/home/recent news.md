@@ -67,10 +67,11 @@ subtitle = ""
  css_class = ""
 +++
 
--	4/2020 Tao Sun defended his dissertation on NEW STATISTICAL METHODS FOR COMPLEX SURVIVAL DATA WITH HIGH-DIMENSIONAL COVARIATES
--	4/2020 Tao Sun was inducted to the Delta Omega Honor Society, which is a renewed national honorary society (founded in 1924) in the field of public health
--	3/2020 Zhe Sun was nominated Outstanding Student Award from Graduate School of Public Health (GSPH)
--	3/2020 Yue Wei won the Honorable Mentions for the oral presentation in the Annual Biostatistics Research Day
--	3/2020 Tao Sun won the Best Presentation Award in the Annual Biostatistics Research Day
+-	10/2020 Wei Chen received PinCH award to study COVID using mobile health technology
+-	9/2020 Xinjun Wang awarded International Chinese Statistical Association (ICSA) Student Paper Award
+-	08/2020 Wei Chen received R21 for the analysis of omics data in Hispanic asthma kids
+-	07/2020 Wei Chen received R21 for the analysis of imaging and genetic data for age-related macular degeneration
+-	6/2020 Xinjun Wang received RAC Graduate Student Fellowship from UPMC Children’s Hospital of Pittsburgh
+
 
 [more news]({{< ref "/news/_index.md" >}})

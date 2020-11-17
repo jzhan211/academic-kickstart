@@ -12,6 +12,12 @@ view: 2
 #  caption: ""
 #  image: "research.jpg"
 ---
+-	10/2020 Wei Chen received PinCH award to study COVID using mobile health technology
+-	9/2020 Xinjun Wang awarded International Chinese Statistical Association (ICSA) Student Paper Award
+-	8/2020 Wei Chen received R21 for the analysis of omics data in Hispanic asthma kids
+-	7/2020 Wei Chen received R21 for the analysis of imaging and genetic data for age-related macular degeneration
+-	6/2020 Xinjun Wang received RAC Graduate Student Fellowship from UPMC Children’s Hospital of Pittsburgh
+-	6/2020 Rong Zhang defended his dissertation on High-Dimensional Inference of Modified Poisson-Type Graphical Models and Robust Sparse CCA, with Applications to Large-Scale Omics Data
 -	4/2020 Tao Sun defended his dissertation on NEW STATISTICAL METHODS FOR COMPLEX SURVIVAL DATA WITH HIGH-DIMENSIONAL COVARIATES
 -	4/2020 Tao Sun was inducted to the Delta Omega Honor Society, which is a renewed national honorary society (founded in 1924) in the field of public health
 -	3/2020 Zhe Sun was nominated Outstanding Student Award from Graduate School of Public Health (GSPH)
