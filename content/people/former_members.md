@@ -74,7 +74,7 @@ weight = 80  # Order that this section will appear.
       <td>Venkat Gella</td>
       <td>2018-2019</td>
       <td>Student Worker</td>
-      <td></td>
+      <td>PhD student at Carnegie Mellon University</td>
     </tr>
     <tr>
       <td>Ting Wang</td>
