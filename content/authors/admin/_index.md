@@ -58,7 +58,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/CV-Chen-10222020.pdf
+  link: files/CV-Chen.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,8 +69,12 @@ user_groups:
 - Principal Investigator
 ---
 
-I am an Associate Professor of [Pediatrics](https://www.pediatrics.pitt.edu/people/wei-chen-phd) (primary, with Tenure), [Biostatistics](https://www.publichealth.pitt.edu/home/directory/wei-chen) (secondary), [Human Genetics](https://www.publichealth.pitt.edu/home/directory/wei-chen) (secondary), and [Biomedical Informatics](https://www.dbmi.pitt.edu/node/52286) (secondary) at the [University of Pittsburgh](https://www.pitt.edu/) and the Director of Statistical Genetics Core at UPMC Children's Hospital of Pittsburgh. My lab is interested in the development of statistical and computational methods for high-throughput genetic/genomic data (e.g. next-generation sequencing, methylation, RNA-seq data, and single cell sequencing) and the genetic study of complex diseases, including age-related macular degeneration (AMD), childhood asthma, and chronic obstructive pulumonary disease (COPD). Our lab is currently supported by the University of Pittsburgh, National Eye Institute (NEI), National Human Genome Research Institute (NHGRI), and National Heart, Lung, and Blood Institute (NHLBI). A research summary can be found [here]({{< ref "/research/_index.md" >}}). We are actively looking for local and distant collaborations.
+<!-- I am an Associate Professor of [Pediatrics](https://www.pediatrics.pitt.edu/people/wei-chen-phd) (primary, with Tenure), [Biostatistics](https://www.publichealth.pitt.edu/home/directory/wei-chen) (secondary), [Human Genetics](https://www.publichealth.pitt.edu/home/directory/wei-chen) (secondary), and [Biomedical Informatics](https://www.dbmi.pitt.edu/node/52286) (secondary) at the [University of Pittsburgh](https://www.pitt.edu/) and the Director of Statistical Genetics Core at UPMC Children's Hospital of Pittsburgh. -->
 
-Postdoc positions are available [here]({{< ref "/positions/index.md" >}}). Positions for graduate student research assistants and undergraduate student workers are also available. Rotation students are also welcome. Please contact Wei Chen at wei.chen@chp.edu for more information.
+My lab focuses on developing statistical and computational methods for the analysis of large-scale biomedical data and applying them to study complex diseases. Collaborating with our colleagues, we use cutting-edge technologies including DNA-seq, RNA-seq, methylation, ATAC-seq and single cell sequencing to study human diseases such as childhood asthma and age-related macular degeneration. Chen lab welcomes collaborators and trainees to move science forward.  Our lab is generously supported by National Institute of Health, National Science Foundation, University of Pittsburgh and UPMC.
+
+{{< figure library="true" src="research.jpg" >}}
+
+<!-- Postdoc positions are available [here]({{< ref "/positions/index.md" >}}). Positions for graduate student research assistants and undergraduate student workers are also available. Rotation students are also welcome. Please contact Wei Chen at wei.chen@chp.edu for more information. -->
 
 <!-- {{% staticref "files/Postdoc-Pittsburgh-2016.pdf" "newtab" %}}here{{% /staticref %}} -->
