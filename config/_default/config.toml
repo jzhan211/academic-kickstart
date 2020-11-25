@@ -13,6 +13,8 @@ title = "Chen Lab"
 baseurl = "https://jzhan211.github.io/"
 relativeURLs = true
 uglyURLs = true
+
+preserveTaxonomyNames=true
 disablePathToLower = true
 
 # Enter a copyright notice to display in the site footer.
