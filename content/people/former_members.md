@@ -37,7 +37,7 @@ weight = 80  # Order that this section will appear.
     <tr>
       <td>Rong Zhang</td>
       <td>2017-2020</td>
-      <td>PhD Student/ GSR</td>
+      <td>PhD Student in Statistics/ GSR</td>
       <td>Biostatistics Manager at Amgen</td>
     </tr>
     <tr>
@@ -73,7 +73,7 @@ weight = 80  # Order that this section will appear.
     <tr>
       <td>Venkat Gella</td>
       <td>2018-2019</td>
-      <td>Student Worker</td>
+      <td>Undergraduate in computational biology</td>
       <td>PhD student at Carnegie Mellon University</td>
     </tr>
     <tr>
