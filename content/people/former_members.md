@@ -73,7 +73,7 @@ weight = 80  # Order that this section will appear.
     <tr>
       <td>Venkat Gella</td>
       <td>2018-2019</td>
-      <td>Undergraduate in computational biology</td>
+      <td>Undergraduate in Computational Biology</td>
       <td>PhD student at Carnegie Mellon University</td>
     </tr>
     <tr>

@@ -8,12 +8,12 @@
 # Title of your site
 title = "Chen Lab"
 
-disablePathToLower = true
+#disablePathToLower = true
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "https://jzhan211.github.io/"
 relativeURLs = true
-uglyURLs = false
+uglyURLs = true
 
 #preserveTaxonomyNames=true
 
