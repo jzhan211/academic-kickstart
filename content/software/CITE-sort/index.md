@@ -4,7 +4,7 @@ description: ""
 #featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
 #tags: ["scene"]
 title: "CITE-sort"
-summary: ""
+summary: "An artificial-cell-type aware surface marker clustering method for CITE-seq data"
 weight: 9
 ---
 

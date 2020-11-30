@@ -5,7 +5,7 @@ description: ""
 #tags: ["scene"]
 title: "BAMMSC"
 summary: "An R package for clustering droplet-based single cell RNA-seq data from multiple individuals simultaneously, capable of correcting for certain data heterogenity and batch effect across samples"
-weight: 10 
+weight: 19
 ---
 
 BAMMSC is an R package for clustering droplet-based single cell transcriptomic data from multiple individuals simultaneously. It adopts a Bayesian hierarchical Dirichlet multinomial mixture model, which explicitly characterizes three levels of variabilities (i.e., genes, cell types and individuals). BAMMSC is able to taking account for data heterogeneity and batch effect, such as unbalanced sequencing depths, variable read length and hidden technical bias, among multiple individuals. BAMMSC also integrates DIMMSC for single individual analysis. The BAMMSC codebase and examples is currently available [here](https://github.com/lichen-lab/BAMMSC).

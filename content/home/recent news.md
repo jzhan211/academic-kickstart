@@ -69,8 +69,8 @@ subtitle = ""
 
 -	10/2020 Wei Chen received PinCH award to study COVID using mobile health technology
 -	9/2020 Xinjun Wang awarded International Chinese Statistical Association (ICSA) Student Paper Award
--	08/2020 Wei Chen received R21 for the analysis of omics data in Hispanic asthma kids
--	07/2020 Wei Chen received R21 for the analysis of imaging and genetic data for age-related macular degeneration
+-	8/2020 Wei Chen received R21 for the analysis of omics data in Hispanic asthma kids
+-	7/2020 Wei Chen received R21 for the analysis of imaging and genetic data for age-related macular degeneration
 -	6/2020 Xinjun Wang received RAC Graduate Student Fellowship from UPMC Children’s Hospital of Pittsburgh
 
 

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student in Biostatistics
+role: Ph.D. Student in Biostatistics
 
 # Organizations/Affiliations
 organizations:
