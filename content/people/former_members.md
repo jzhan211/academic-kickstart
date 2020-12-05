@@ -66,7 +66,7 @@ weight = 80  # Order that this section will appear.
       <th scope="col">Zhe Sun</th>
       <th scope="col">2016-2019</th>
       <th scope="col">PhD Student in Biostatistics/ GSR</th>
-      <th scope="col">Tenure Track Assistant Professor, Columbia University</th>
+      <th scope="col">Research Scientist at Eli Lilly and Company</th>
     </tr>
   </thead>
   <thead class="thead-light">
