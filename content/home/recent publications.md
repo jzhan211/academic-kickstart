@@ -67,14 +67,14 @@ subtitle = ""
  css_class = ""
 +++
 
-- Kim S, Forno E, Zhang R, Park HJ, Xu Z, Yan Q, Boutaoui N, Acosta-Pérez E, Canino G, **Chen W**, Celedón JC. Expression Quantitative Trait Methylation Analysis Reveals Methylomic Associations With Gene Expression in Childhood Asthma. Chest. 2020 Nov;158(5):1841-1856. doi: 10.1016/j.chest.2020.05.601. Epub 2020 Jun 20. PubMed PMID: 32569636; NIHMSID:NIHMS1636691.
+- Xin H, Lian Q, Jiang Y, Luo J, Wang X, Erb C, Xu Z, Zhang X, Heidrich-O'Hare E, Yan Q, Duerr RH, Chen K, **Chen W**. GMM-Demux: sample demultiplexing, multiplet detection, experiment planning, and novel cell-type verification in single cell sequencing. <em><ins>Genome Biol. 2020 Jul 30;21(1):188</ins></em>. 
 
-- Wang X, Sun Z, Zhang Y, Xu Z, Xin H, Huang H, Duerr RH, Chen K, Ding Y, **Chen W**. BREM-SC: a bayesian random effects mixture model for joint clustering single cell multi-omics data. Nucleic Acids Res. 2020 Jun 19;48(11):5814-5824. doi: 10.1093/nar/gkaa314. PubMed PMID: 32379315; PubMed Central PMCID: PMC7293045.
+- Wang X, Sun Z, Zhang Y, Xu Z, Xin H, Huang H, Duerr RH, Chen K, Ding Y, **Chen W**. BREM-SC: a bayesian random effects mixture model for joint clustering single cell multi-omics data. <em><ins>Nucleic Acids Res. 2020 Jun 19;48(11):5814-5824</ins></em>. 
 
-- Kim S, Forno E, Yan Q, Jiang Y, Zhang R, Boutaoui N, Acosta-Pérez E, Canino G, **Chen W**, Celedón JC. SNPs identified by GWAS affect asthma risk through DNA methylation and expression of cis-genes in airway epithelium. Eur Respir J. 2020 Apr;55(4). doi: 10.1183/13993003.02079-2019. Print 2020 Apr. PubMed PMID: 31831581.
+- Kim S, Forno E, Yan Q, Jiang Y, Zhang R, Boutaoui N, Acosta-Pérez E, Canino G, **Chen W**, Celedón JC. SNPs identified by GWAS affect asthma risk through DNA methylation and expression of cis-genes in airway epithelium. <em><ins>Eur Respir J. 2020 Apr;55(4)</ins></em>. 
 
-- Yan Q, Weeks DE, Xin H, Swaroop A, Chew EY, Huang H, Ding Y, **Chen W**. Deep-learning-based Prediction of Late Age-Related Macular Degeneration Progression. Nat Mach Intell. 2020 Feb;2(2):141-150. doi: 10.1038/s42256-020-0154-9. Epub 2020 Feb 14. PubMed PMID: 32285025; PubMed Central PMCID: PMC7153739.
+- Yan Q, Weeks DE, Xin H, Swaroop A, Chew EY, Huang H, Ding Y, **Chen W**. Deep-learning-based Prediction of Late Age-Related Macular Degeneration Progression. <em><ins>Nat Mach Intell. 2020 Feb;2(2):141-150</ins></em>. 
 
-- Sun T, Sun Z, Jiang Y, Ferguson AA, Pilewski JM, Kolls JK, **Chen W**, Chen K. Transcriptomic Responses to Ivacaftor and Prediction of Ivacaftor Clinical Responsiveness. Am J Respir Cell Mol Biol. 2019 Nov;61(5):643-652. doi: 10.1165/rcmb.2019-0032OC. PubMed PMID: 30995102; PubMed Central PMCID: PMC6827069.
+- Sun Z, Chen L, Xin H, Jiang Y, Huang Q, Cillo AR, Tabib T, Kolls JK, Bruno TC, Lafyatis R, Vignali DAA, Chen K, Ding Y, Hu M, **Chen W**. A Bayesian mixture model for clustering droplet-based single-cell transcriptomic data from population studies. <em><ins>Nat Commun. 2019 Apr 9;10(1):1649</ins></em>. 
 
 [more publications](https://www.ncbi.nlm.nih.gov/myncbi/1BiLmrlnjqUQE/bibliography/public/?sortby=pubDate&sdirection=descending)

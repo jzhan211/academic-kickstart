@@ -105,7 +105,7 @@ weight = 80  # Order that this section will appear.
     <tr>
       <th scope="col">Zhou (Ark) Fang</th>
       <th scope="col">2014-2018</th>
-      <th scope="col">PhD Student/ GSR</th>
+      <th scope="col">PhD Student in Biostatistics/ GSR</th>
       <th scope="col">Data Scientist at Google</th>
     </tr>
   </thead>
@@ -113,7 +113,7 @@ weight = 80  # Order that this section will appear.
     <tr>
       <th scope="col">Yi Liu</th>
       <th scope="col">2014-2017</th>
-      <th scope="col">PhD Student/ GSR</th>
+      <th scope="col">PhD Student in Biostatistics/ GSR</th>
       <th scope="col">Principle Statistician at Boehringer Ingelheim</th>
     </tr>
   </thead>
@@ -137,7 +137,7 @@ weight = 80  # Order that this section will appear.
     <tr>
       <th scope="col">Lun-Ching Chang</th>
       <th scope="col">2014</th>
-      <th scope="col">PhD Student</th>
+      <th scope="col">PhD Student in Biostatistics</th>
       <th scope="col">Tenure Track Assistant Professor (TTAP), Florida Atlantic University</th>
     </tr>
   </thead>
