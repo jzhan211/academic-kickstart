@@ -67,11 +67,11 @@ subtitle = ""
  css_class = ""
 +++
 
--	10/2020 Wei Chen received PinCH award to study COVID using mobile health technology
--	9/2020 Xinjun Wang awarded International Chinese Statistical Association (ICSA) Student Paper Award
--	8/2020 Wei Chen received R21 for the analysis of omics data in Hispanic asthma kids
--	7/2020 Wei Chen received R21 for the analysis of imaging and genetic data for age-related macular degeneration
--	6/2020 Xinjun Wang received RAC Graduate Student Fellowship from UPMC Children’s Hospital of Pittsburgh
+- 7/2021 Wei Chen was promoted to full professor
+- 4/2021 Xinjun Wang received Biostatistics Doctoral Award in the Annual GSPH Dean’s Day
+- 4/2021 Ying Ding received 2021 James L. Craig Excellence in Education Award from the Graduate School of Public Health (GSPH)
+- 3/2021 Xinjun Wang was honored with the Student of the Year Award by the American Statistical Association (ASA) Pittsburgh Chapter
+- 3/2021 Wei Chen joined the editorial board of Genome Biology
 
 
 [more news]({{< ref "/news/_index.md" >}})
