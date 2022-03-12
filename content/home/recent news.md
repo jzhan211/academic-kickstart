@@ -66,12 +66,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
+- 3/2022 Wei Chen was appointed as Adjunct Professor of Biomedical Engineering (BME) at Carnegie Mellon University
+- 3/2022 Molin Yue and Zhongli Xu received ATS scholarship
+- 2/2022 Xinjun Wang accepted the faculty position (Assistant Attending Biostatistician) at Memorial Sloan Kettering Cancer Center
+- 1/2022 Molin Yue’s 2 abstracts were accepted for oral presentation at 2022 ATS International Conference
 - 7/2021 Wei Chen was promoted to full professor
-- 4/2021 Xinjun Wang won 2021 Outstanding Graduate Student Researcher Award
-- 4/2021 Xinjun Wang received Biostatistics Doctoral Award in the Annual GSPH Dean’s Day
-- 3/2021 Xinjun Wang was honored with the Student of the Year Award by the American Statistical Association (ASA) Pittsburgh Chapter
-- 3/2021 Wei Chen joined the editorial board of Genome Biology
-
 
 [more news]({{< ref "/news/_index.md" >}})
