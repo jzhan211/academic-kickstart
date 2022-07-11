@@ -66,6 +66,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+- Xu Z, Heidrich-O’Hare E, **Chen W** et al. Comprehensive benchmarking of CITE-seq versus DOGMA-seq single cell multimodal omics. <em><ins>Genome Biol 23, 135 (2022)</ins></em>. 
 
 - Yan Q, Forno E, C Celedón J, **Chen W**. A region-based method for causal mediation analysis of DNA methylation data. <em><ins>Epigenetics. 2022 Mar;17(3):286-296</ins></em>. 
 
