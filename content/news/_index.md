@@ -12,6 +12,7 @@ view: 2
 #  caption: ""
 #  image: "research.jpg"
 ---
+- 5/2022 Chen Lab received P01 renewal of Bioinformatics Core to study Severe Asthma with Drs. Ray and Wenzel
 - 3/2022 Wei Chen was appointed as Adjunct Professor of Biomedical Engineering (BME) at Carnegie Mellon University
 - 3/2022 Molin Yue and Zhongli Xu received ATS abstract scholarship
 - 2/2022 Xinjun Wang accepted the faculty position (Assistant Attending Biostatistician) at Memorial Sloan Kettering Cancer Center
