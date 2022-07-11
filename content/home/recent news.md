@@ -67,7 +67,7 @@ subtitle = ""
  css_class = ""
 +++
 - 3/2022 Wei Chen was appointed as Adjunct Professor of Biomedical Engineering (BME) at Carnegie Mellon University
-- 3/2022 Molin Yue and Zhongli Xu received ATS scholarship
+- 3/2022 Molin Yue and Zhongli Xu received ATS Abstract scholarship
 - 2/2022 Xinjun Wang accepted the faculty position (Assistant Attending Biostatistician) at Memorial Sloan Kettering Cancer Center
 - 1/2022 Molin Yue’s 2 abstracts were accepted for oral presentation at 2022 ATS International Conference
 - 7/2021 Wei Chen was promoted to full professor
