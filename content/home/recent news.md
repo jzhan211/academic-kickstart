@@ -66,9 +66,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-- 8/2022 Chen Lab received NIH NSF (2225775) with Dr. Heng Huang to develop statistical and machine learning methods for single-cell multi-omics data
+- 8/2022 Chen Lab received NSF (2225775) with Dr. Heng Huang to develop statistical and machine learning methods for single-cell multi-omics data
 - 7/2022 Chen Lab received NIH R01 (R01EB034116) with Dr. Heng Huang to develop advanced machine learning methods for ocular data
-- 7/2022 Zhongli has two paper published in Genome Biology and iScience ([link 1](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02698-8),  [link 2](https://www.biorxiv.org/content/10.1101/2021.09.17.460865v2))
+- 7/2022 Zhongli has two paper published in [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02698-8) and [iScience](https://www.biorxiv.org/content/10.1101/2021.09.17.460865v2)
 - 5/2022 Chen Lab received P01 renewal of Bioinformatics Core to study Severe Asthma with Drs. Ray and Wenzel
 - 3/2022 Wei Chen was appointed as Adjunct Professor of Biomedical Engineering (BME) at Carnegie Mellon University
 
