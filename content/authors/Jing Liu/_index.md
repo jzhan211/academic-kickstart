@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Xinjun Wang
+title: Jing Liu
 
 # Username (this should match the folder name)
 authors:
-- Xinjun Wang
+- Jing Liu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D. Student in Biostatistics
+role: Software Engineer and Bioinformatician
 
 # Organizations/Affiliations
 organizations:
@@ -44,7 +44,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:XIW119@pitt.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:soyeon.sophia.kim@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -65,8 +65,8 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-weight: 20
+weight: 12
 user_groups:
-- Former Members
+- Lab Members
 ---
 

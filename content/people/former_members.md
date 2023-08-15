@@ -23,6 +23,30 @@ weight = 80  # Order that this section will appear.
   </thead>
   <thead class="thead-light">
     <tr>
+      <th scope="col">Xueping Zhou</th>
+      <th scope="col">2018-2023</th>
+      <th scope="col">PhD Student in Biostatistics/ GSR</th>
+      <th scope="col">Food and Drug Administration</th>
+    </tr>
+  </thead>
+  <thead class="thead-light">
+    <tr>
+      <th scope="col">Zhongli Xu</th>
+      <th scope="col">2020-2023</th>
+      <th scope="col">Tsinghua-Pitt Joint Program</th>
+      <th scope="col">MD Student at Tsinghua</th>
+    </tr>
+  </thead>
+  <thead class="thead-light">
+    <tr>
+      <th scope="col">Xinjun Wang</th>
+      <th scope="col">2017-2022</th>
+      <th scope="col">PhD Student in Biostatistics/ GSR</th>
+      <th scope="col">Assistant Attending Biostatistician, Memorial Sloan Kettering Cancer Center</th>
+    </tr>
+  </thead>
+  <thead class="thead-light">
+    <tr>
       <th scope="col">Qi Yan</th>
       <th scope="col">2014-2020</th>
       <th scope="col">Research Assistant Professor/ Postdoctoral Fellow (Previous)</th>
@@ -149,6 +173,12 @@ weight = 80  # Order that this section will appear.
   
 <!--
   <tbody class="thead-dark">
+    <tr class="table-info">
+      <td>Xinjun Wang</td>
+      <td>2017-2022</td>
+      <td>Research Assistant Professor/ Postdoctoral Fellow (Previous)</td>
+      <td>Tenure Track Assistant Professor, Columbia University</td>
+    </tr>
     <tr class="table-info">
       <td>Qi Yan</td>
       <td>2014-2020</td>
