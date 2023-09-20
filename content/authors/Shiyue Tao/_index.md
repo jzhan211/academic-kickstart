@@ -44,7 +44,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:des220@pitt.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:shiyuetao@pitt.edu'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
