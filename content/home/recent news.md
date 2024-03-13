@@ -71,7 +71,7 @@ subtitle = ""
 - 1/2024 Dr. Chen was elected as Secretary of Chinese-American Lung Association (CALA)  
 - 5/2023 Chen Lab received Scleroderma Research Funding (with Dr. Torok) to study spatial transcriptomics in pediatric scleroderma patients.  
 - 1/2023 Wei Chen was elected as American Thoracic Society Fellow (ATS)
-- 10/2022 Zhongli received semi-finalist for Charles J. Epstein Trainee Awards at [ASHG](https://www.ashg.org/membership/awards/epstein/)
+
 
 
 [more news]({{< ref "/news/_index.md" >}})
