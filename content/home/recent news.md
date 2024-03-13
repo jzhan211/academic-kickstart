@@ -66,10 +66,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-- 3/2024 Chen Lab received an R01 (with Dr. Duerr) from NIDDK to generate a large-scale trans-ancestry, single-cell multi-omics dataset on CD4 T cells. 
+- 3/2024 Chen Lab received an [R01](https://reporter.nih.gov/search/xzRDncNh6Ei48FgOMdC6iQ/project-details/10805885) (with Dr. Duerr) from NIDDK to generate a large-scale trans-ancestry, single-cell multi-omics dataset on CD4 T cells. 
 - 2/2024 Molin Yue received the 2024 ATS Abstract Scholarship. 
-- 1/2024 Dr. Chen was elected as Secretary of Chinese-American Lung Association (CALA)  
-- 5/2023 Chen Lab received Scleroderma Research Funding (with Dr. Torok) to study spatial transcriptomics in pediatric scleroderma patients.  
+- 1/2024 Dr. Chen was elected as Secretary of [Chinese-American Lung Association](https://mycala.org/) (CALA)  
+- 5/2023 Chen Lab received [Scleroderma Research Funding](https://srfcure.org/disease-propogation-in-juvenile-scleroderma/) (with Dr. Torok) to study spatial transcriptomics in pediatric scleroderma patients.  
 - 1/2023 Wei Chen was elected as American Thoracic Society Fellow (ATS)
 
 
