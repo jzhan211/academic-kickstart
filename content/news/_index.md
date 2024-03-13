@@ -12,6 +12,10 @@ view: 2
 #  caption: ""
 #  image: "research.jpg"
 ---
+- 3/2024 Chen Lab received an R01 (with Dr. Duerr) from NIDDK to generate a large-scale trans-ancestry, single-cell multi-omics dataset on CD4 T cells. 
+- 2/2024 Molin Yue received the 2024 ATS Abstract Scholarship. 
+- 1/2024 Dr. Chen was elected as Secretary of Chinese-American Lung Association (CALA)  
+- 5/2023 Chen Lab received Scleroderma Research Funding (with Dr. Torok) to study spatial transcriptomics in pediatric scleroderma patients.  
 - 1/2023 Wei Chen was elected as American Thoracic Society Fellow (ATS)
 - 10/2022 Zhongli received semi-finalist for Charles J. Epstein Trainee Awards at [ASHG](https://www.ashg.org/membership/awards/epstein/)
 - 8/2022 Chen Lab received NSF (2225775) with Dr. Heng Huang to develop statistical and machine learning methods for single-cell multi-omics data
