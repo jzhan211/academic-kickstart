@@ -67,6 +67,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 weight: 113
 user_groups:
-- Lab Members
+- Former Members
 ---
 

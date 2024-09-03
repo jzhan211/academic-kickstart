@@ -23,6 +23,15 @@ weight = 80  # Order that this section will appear.
   </thead>
   <thead class="thead-light">
     <tr>
+      <th scope="col">Manqi Cai</th>
+      <th scope="col">2019-2024</th>
+      <th scope="col">PhD Student in Biostatistics/ GSR</th>
+      <th scope="col">Food and Drug Administration</th>
+    </tr>
+  </thead>
+  <thead class="thead-light">
+  <thead class="thead-light">
+    <tr>
       <th scope="col">Xueping Zhou</th>
       <th scope="col">2018-2023</th>
       <th scope="col">PhD Student in Biostatistics/ GSR</th>
