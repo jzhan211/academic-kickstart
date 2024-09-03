@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Software Engineer and Bioinformatician
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:

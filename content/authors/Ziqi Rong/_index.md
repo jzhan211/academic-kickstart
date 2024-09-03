@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MS Student in Information Science
+role: Bioinformatician
 
 # Organizations/Affiliations
 organizations:
@@ -65,7 +65,7 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-weight: 115
+weight: 116
 user_groups:
 - Lab Members
 ---
