@@ -14,7 +14,7 @@ role: Bioinformatician
 
 # Organizations/Affiliations
 organizations:
-- name: University of Michigan
+- name: University of Pittsburgh
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
